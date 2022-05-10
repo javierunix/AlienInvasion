@@ -1,2 +1,6 @@
 # Alien Invasion
-Eric Mathesson's book project.
+Project from the book *Python Crash Course*, by **Eric Matthes**.
+
+It includes the following chapters:
+- Chapter 12
+- Chapter 13
